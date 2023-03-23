@@ -22,4 +22,4 @@ print('Hello, RS School!')
 * GitHub: https://github.com/DzianisDarmel
 * Email: dendarmel@gmail.com
 * VK: https://vk.com/dendarmel
-* Phone: 80297425798
+* Phone: +375 29 742-57-98
