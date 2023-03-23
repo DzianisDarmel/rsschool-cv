@@ -13,6 +13,7 @@
 * Git
 * PowerBI
 * JS
+* Tableau
 ## Code Example
 ```
 print('Hello, world!')
